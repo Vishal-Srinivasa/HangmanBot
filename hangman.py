@@ -283,6 +283,4 @@ async def profile(ctx, member: discord.Member = 'me'):
     db.close()
 
 
-
-bot_token = '''bot token here'''
-client.run(bot_token)
+client.run('''bot_token here''')
