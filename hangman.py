@@ -284,5 +284,5 @@ async def profile(ctx, member: discord.Member = 'me'):
 
 
 
-bot_token = 'NzgxMDU0NTQwNzc0Mzc1NDI0.X74DuQ.PLYetq-3B5KbRTiBTBxJeTprFHc'
+bot_token = '''bot token here'''
 client.run(bot_token)
